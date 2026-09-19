@@ -24,3 +24,7 @@ results/
 *.jpg
 *.jpeg
 *.pdf
+
+# README UI screenshots (raw datasets remain ignored).
+!images/
+!images/*.png
