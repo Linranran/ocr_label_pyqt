@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+
+# OCR samples and annotation outputs must stay local.
+data/
+dataset/
+datasets/
+images/
+labels/
+outputs/
+results/
+*.json
+*.jsonl
+*.txt
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.pdf
